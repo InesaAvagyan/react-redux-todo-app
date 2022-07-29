@@ -1,0 +1,19 @@
+.App{
+    text-align: center;
+}
+body{
+    background-color: rgba(137, 43, 226, 0.215);
+}
+
+.header{
+    color:rgb(222, 222, 249);
+    height: 200px;
+    background-image:repeating-conic-gradient(blueviolet 10%, violet 20%) ;
+}
+
+.header h1{
+    font-size: 60px; ;
+    position: fixed;  
+    margin-top: 70px;
+    margin-left: 35%;  
+}
